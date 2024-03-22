@@ -1,5 +1,5 @@
 {
-    "RegistryName": "yourpack:cola",
+    "ID": "cola",
     "Addon": "yourpack",
     "Name": "YourPack's Cola",
     "Description": [
@@ -9,7 +9,7 @@
     "HealAmount": 2,
     "Saturation": 0.4,
     "UseDuration": 20,
-    "WolfMeat": false,
+    "WolfFood": false,
     "Drinkable": true,
     "AlwaysEdible": true
 }
