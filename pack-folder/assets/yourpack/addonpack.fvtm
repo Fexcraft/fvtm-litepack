@@ -1,8 +1,7 @@
 {
-	"RegistryName": "yourpack",
+	"ID": "yourpack",
 	"Name": "Your Pack",
-	"URL": "http://fexcraft.net/download?modid=addon-yourpack&YOUR_DOWNLOAD_OR_OFFICIAL_PAGE_HERE",
-	"UpdateID": "addon-yourpack",
+	"Website": "https://fexcraft.net/minecraft/content?YOUR_SITE_OR_POST_ADRESS_HERE",
 	"License": "http://fexcraft.net/license?id=mods&YOUR_LICENSE_LINK_HERE_IF_DIFFERENT",
 	"Authors": [
 		"YOUR UUID OR NAME/NICK HERE"
